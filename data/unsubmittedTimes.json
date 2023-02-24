@@ -1,0 +1,117 @@
+{
+    "floorb": {
+        "glitchless": 911.43,
+        "oob": 399.16,
+        "inbounds": 609.28,
+        "legacy": 681.82,
+        "unrestricted": 689.79
+    },
+    "Dinoz": {  
+        "inbounds": 525.97,
+        "oob": 384.97,
+        "legacy": 703.39,
+        "unrestricted": 703.39
+    },
+    "SiDiouS": {
+        "inbounds": 517.72
+    },
+    "HelyonCZ": {
+        "inbounds": 568.89,
+        "legacy": 719.07,
+        "unrestricted": 672.1,
+        "glitchless": 903.03,
+        "oob": 388.93
+    },
+    "edible": {
+        "legacy": 783,
+        "inbounds": 642
+    },
+    "CantEven": {
+        "oob": 353.46
+    },
+    "Sarahspeedrun": {
+        "inbounds": 539.79,
+        "oob": 398.32
+    },
+    "nonsensicalalias": {
+        "oob": 389.44,
+        "legacy": 751,
+        "glitchless": 949.41
+    },
+    "HalosnowYT": {
+        "legacy": 709.06,
+        "oob": 427,
+        "inbounds": 636
+    },
+    "Geagulp": {
+        "inbounds": 515.5,
+        "glitchless": 947.37,
+        "legacy": 744,
+        "oob": 423
+    },
+    "alatreph": {
+        "legacy": 740.38,
+        "glitchless": 939.66
+    },
+    "edss": {
+    },
+    "XnonXte": {
+        "inbounds": 553.17
+    },
+    "evanlin96069": {
+        "inbounds": 701.295
+    },
+    "Hrvatskii": {
+        "inbounds": 545.73,
+        "glitchless": 903.96,
+        "unrestricted": 658.4
+    },
+    "shroom": {
+        "glitchless": 990,
+        "legacy": 786
+    },
+    "siblinghood": {
+        "legacy": 714.3
+    },
+    "aruma": {
+        "oob": 378
+    },
+    "El Korgus" : {
+        "glitchless": 955.6
+    },
+    "gurf": {
+        "glitchless": 959.1
+    },
+    "Grimspace": {
+        "glitchless": 950.3
+    },
+    "ChrisUMB": {
+        "glitchless": 946.4
+    },
+    "WadaWada": {
+        "glitchless": 939.03
+    },
+    "Zoochable": {
+        "glitchless": 905.25
+    },
+    "AngerySnek": {
+        "glitchless": 974.19
+    },
+    "SillieMillie": {
+        "oob": 409.17,
+        "inbounds": 618.13,
+        "legacy": 793.48
+
+    },
+    "Reassagressta": {
+        "legacy": 763.03
+    },
+    "adamantite": {
+        "inbounds": 676.05,
+        "glitchless": 931.83
+    },
+    "SalmonAlpaca": {
+        "glitchless": 948.10
+    }
+}
+

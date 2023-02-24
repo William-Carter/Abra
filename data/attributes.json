@@ -1,0 +1,56 @@
+{
+    "static aim": {
+        "description": "Aiming shots while standing still i.e static sg routes, eg routes, spiderman",
+        "weight": 0.4,
+        "oob": 0.3,
+        "inbounds": 1,
+        "unrestricted": 0.3,
+        "legacy": 0.3,
+        "glitchless": 0.6
+    },
+    "dynamic aim": {
+        "description": "Aiming shots while moving i.e. peeks, flings, non-static sg routes",
+        "weight": 0.7,
+        "oob": 0.7,
+        "inbounds": 0.6,
+        "unrestricted": 1,
+        "legacy": 1,
+        "glitchless": 1
+    },
+    "accelerated movement": {
+        "description": "Controlling speed, circlestrafes, toggleduck tech, etc.",
+        "weight": 0.5,
+        "oob": 0.5,
+        "inbounds": 0.7,
+        "unrestricted": 0.9,
+        "legacy": 1,
+        "glitchless": 0
+    }, 
+    "strafe movement": {
+        "description": "Having good sync, basically. Primarily used in bhopping but also funtitled and impossible strafe",
+        "weight": 0.35,
+        "oob": 0.05,
+        "inbounds": 0.2,
+        "unrestricted": 0.3,
+        "legacy": 0.3,
+        "glitchless": 1
+    },
+    "oob tech": {
+        "description": "Pulling off strats such as PQRs, aiming shots at difficult to see geometry, executing crazy under ele strats, etc.",
+        "weight": 0.3,
+        "oob": 1,
+        "inbounds": 0,
+        "unrestricted": 0,
+        "legacy": 0,
+        "glitchless": 0
+    },
+    "saveload abuse": {
+        "description": "Anything and everything to do with abusing saves and loads. Timing SLs, getting saveglitch, etc.",
+        "weight": 0.25,
+        "oob": 0.9,
+        "inbounds": 1,
+        "unrestricted": 0,
+        "legacy": 0,
+        "glitchless": 0
+    }
+}
