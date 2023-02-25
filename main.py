@@ -4,6 +4,6 @@ import generateLeaderboards
 import calculateABRA
 
 downloadRuns.getRuns()
-generateRunnerProfiles.pullRunners()
+generateRunnerProfiles.pullRunners(500)
 generateLeaderboards.generate()
 calculateABRA.calculate()

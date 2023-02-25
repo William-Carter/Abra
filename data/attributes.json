@@ -19,20 +19,20 @@
     },
     "accelerated movement": {
         "description": "Controlling speed, circlestrafes, toggleduck tech, etc.",
-        "weight": 0.5,
+        "weight": 0.45,
         "oob": 0.5,
-        "inbounds": 0.7,
-        "unrestricted": 0.9,
+        "inbounds": 0.6,
+        "unrestricted": 0.95,
         "legacy": 1,
         "glitchless": 0
     }, 
     "strafe movement": {
         "description": "Having good sync, basically. Primarily used in bhopping but also funtitled and impossible strafe",
-        "weight": 0.35,
-        "oob": 0.05,
-        "inbounds": 0.2,
-        "unrestricted": 0.3,
-        "legacy": 0.3,
+        "weight": 0.4,
+        "oob": 0.03,
+        "inbounds": 0.15,
+        "unrestricted": 0.25,
+        "legacy": 0.25,
         "glitchless": 1
     },
     "oob tech": {
@@ -46,8 +46,8 @@
     },
     "saveload abuse": {
         "description": "Anything and everything to do with abusing saves and loads. Timing SLs, getting saveglitch, etc.",
-        "weight": 0.25,
-        "oob": 0.9,
+        "weight": 0.20,
+        "oob": 0.95,
         "inbounds": 1,
         "unrestricted": 0,
         "legacy": 0,

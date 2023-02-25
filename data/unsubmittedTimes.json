@@ -2,7 +2,7 @@
     "floorb": {
         "glitchless": 911.43,
         "oob": 399.16,
-        "inbounds": 609.28,
+        "inbounds": 590.49,
         "legacy": 681.82,
         "unrestricted": 689.79
     },
@@ -16,7 +16,7 @@
         "inbounds": 517.72
     },
     "HelyonCZ": {
-        "inbounds": 568.89,
+        "inbounds": 559.26,
         "legacy": 719.07,
         "unrestricted": 672.1,
         "glitchless": 903.03,
@@ -50,8 +50,8 @@
         "oob": 423
     },
     "alatreph": {
-        "legacy": 740.38,
-        "glitchless": 939.66
+        "legacy": 735.700,
+        "glitchless": 935.01
     },
     "edss": {
     },
@@ -64,7 +64,8 @@
     "Hrvatskii": {
         "inbounds": 545.73,
         "glitchless": 903.96,
-        "unrestricted": 658.4
+        "unrestricted": 658.4,
+        "legacy": 708.97
     },
     "shroom": {
         "glitchless": 990,
@@ -76,32 +77,16 @@
     "aruma": {
         "oob": 378
     },
-    "El Korgus" : {
-        "glitchless": 955.6
-    },
-    "gurf": {
-        "glitchless": 959.1
-    },
-    "Grimspace": {
-        "glitchless": 950.3
-    },
     "ChrisUMB": {
         "glitchless": 946.4
     },
-    "WadaWada": {
-        "glitchless": 939.03
-    },
     "Zoochable": {
         "glitchless": 905.25
-    },
-    "AngerySnek": {
-        "glitchless": 974.19
     },
     "SillieMillie": {
         "oob": 409.17,
         "inbounds": 618.13,
         "legacy": 793.48
-
     },
     "Reassagressta": {
         "legacy": 763.03
@@ -112,6 +97,12 @@
     },
     "SalmonAlpaca": {
         "glitchless": 948.10
+    },
+    "Hugnable": {
+        "glitchless": 1012.00
+    },
+    "gravytape": {
+        "glitchless": 990.000
     }
 }
 

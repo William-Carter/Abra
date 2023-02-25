@@ -47,6 +47,7 @@ class Player:
         """
         finalSum = 0
         for attributeName in self.attributes:
-            finalSum += self.attributes[attributeName]*attributeStandards[attributeName]["weight"]
+            scaledAttribute = self.attributes[attributeName]*attributeStandards[attributeName]["weight"]
+            finalSum += scaledAttribute
 
         return finalSum
